@@ -1,3 +1,5 @@
+1.Primitive Data Types
+
 | Type    | Size    | Example                   |
 | ------- | ------- | ------------------------- |
 | byte    | 1 byte  | byte b = 10;              |
