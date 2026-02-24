@@ -8,3 +8,14 @@
 | double  | 8 bytes | double pi = 3.14159;      |
 | char    | 2 bytes | char grade = 'A';         |
 | boolean | 1 bit   | boolean isJavaFun = true; |
+
+
+2. Non-Primitive Data Types
+
+String
+
+Arrays
+
+Classes
+
+Objects
